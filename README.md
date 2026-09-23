@@ -4,6 +4,10 @@ A free, local-first narrative strategy game about a city full of people who need
 
 This is an original work. Its compact town, oddball humour, and returning characters take broad inspiration from playful adventure games such as *Turnip Boy Commits Tax Evasion*. Characters, art, writing, systems, and setting are original.
 
+## Play online
+
+[Play Queue City: The Long Tuesday](https://ansahmad-builds.github.io/queue-city-the-long-tuesday/)
+
 ## Play locally
 
 No package install, API key, model, or backend is needed. Serve this directory with any static file server:
@@ -36,4 +40,4 @@ The city and its outcomes are fictional. Source cards link to official public in
 
 ## Hosting
 
-The site is static and can be published from the repository root with GitHub Pages. There are no secrets to configure. A dedicated repository keeps the game separate from the portfolio workspace.
+The site is static and published from the repository root with GitHub Pages. There are no secrets to configure. A dedicated repository keeps the game separate from the portfolio workspace.
