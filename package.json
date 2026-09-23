@@ -1,0 +1,10 @@
+{
+  "name": "queue-city-the-long-tuesday",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-content.mjs",
+    "test": "node tests/engine.test.mjs"
+  }
+}
